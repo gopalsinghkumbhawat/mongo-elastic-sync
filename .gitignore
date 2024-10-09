@@ -1,0 +1,29 @@
+# Build
+dist/
+build/
+build-dev/
+build-prod/
+build-local/
+build-staging/
+build-qa/
+
+# Temp files
+.DS_Store
+.tmp
+.bak
+
+# Node
+npm-debug.log
+node_modules
+yarn-error.log
+package-lock.json
+.npmrc
+.env.production
+.env.local
+backend/.env
+backend/uploads
+cron/uploads
+node_modules/
+.env
+
+.history
